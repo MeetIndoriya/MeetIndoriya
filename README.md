@@ -2,7 +2,7 @@
 
 <img src="assets/metrics.svg" width="100%" alt="GitHub metrics: public repositories, followers, stars, contributions in the last 12 months, and a language breakdown by repository. Refreshed automatically.">
 
-##Contribution city
+# Contribution city
 
 <a href="https://github.com/MeetIndoriya?tab=repositories"><img src="assets/contribution-city.svg" width="100%" alt="Contribution city: an isometric night skyline built from the last 12 months of GitHub activity. Each tile is one day. Empty plots are quiet days, taller and brighter buildings are busier days, the violet tower is the busiest day and a cyan outline marks the longest streak."></a>
 
@@ -10,15 +10,15 @@
 
 <img src="assets/activity.svg" width="100%" alt="Activity breakdown: commits per month, commits by weekday, current and longest streak, best day and number of active days.">
 
-##Now
+# Now
 
 <img src="assets/terminal.svg" width="100%" alt="Terminal view: currently building full-stack apps and machine learning basics, learning Python, SQL, DSA and AI/ML fundamentals, followed by the latest public commits. Status: open to internships and freelance work.">
 
-## Stack
+# Stack
 
 <img src="assets/stack.svg" width="100%" alt="Tech stack. Frontend: React.js, Next.js, JavaScript, Tailwind CSS, Bootstrap. Backend: Python, FastAPI, Node.js, Express.js, REST APIs. Database: PostgreSQL, MongoDB, MySQL, Supabase. Tools: Git, GitHub, Vercel, API integration.">
 
-## Projects
+# Projects
 
 <!--START:projects-->
 <a href="https://github.com/MeetIndoriya/nexa-salon"><img src="assets/projects/nexa-salon.svg" width="100%" alt="nexa-salon: Salon management portal: React + Vite frontend with an Express REST API, MongoDB, JWT authentication, Socket.IO and Swagger docs. Tech: React, Vite, Express, MongoDB, Socket.IO, Swagger. Open the repository on GitHub."></a>
@@ -49,6 +49,3 @@
 Everything above except this text is generated. A GitHub Action runs `scripts/build_profile.py` every 12 hours, reads my public GitHub data, redraws the SVGs in `assets/` and commits only when something changed. There are no third-party widgets and no hard-coded statistics. The generator, the workflow and the design tokens are all in this repository if you want to adapt them.
 
 </details>
-#� �M�e�e�t�I�n�d�o�r�i�y�a�
-�
-�
