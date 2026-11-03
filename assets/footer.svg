@@ -70,6 +70,6 @@
 <rect x="823.4" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
 <rect x="830.0" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
 <rect x="836.6" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
-<rect x="843.2" y="128.2" width="4.6" height="21.8" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="843.2" y="117.1" width="4.6" height="32.9" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
 <text x="500" y="166" class="m" font-size="10.5" fill="#7a889a">weekly activity, last 12 months</text>
 </svg>
