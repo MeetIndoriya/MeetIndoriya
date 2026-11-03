@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 403" width="880" height="403" role="img" aria-labelledby="t d">
+<title id="t">Terminal: what I am working on</title><desc id="d">Building: full-stack apps in nexa-salon; machine learning basics in ML-Loan. Learning: Python, SQL, DSA, AI/ML fundamentals. Status: Open to internships and freelance work.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b131d"/><stop offset="1" stop-color="#060a10"/></linearGradient><radialGradient id="glow" cx="0" cy="0" r="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".16"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient><radialGradient id="glow2" cx="1" cy="1" r="1"><stop offset="0" stop-color="#3fb950" stop-opacity=".12"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></radialGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#fff" stroke-opacity=".028" stroke-width="1"/></pattern></defs>
+<style>
+.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%{opacity:.9;transform:scale(1)}70%{opacity:0;transform:scale(3.4)}100%{opacity:0;transform:scale(3.4)}}
+@keyframes flick{0%,100%{opacity:1}45%{opacity:.25}60%{opacity:1}}
+.cur{animation:blink 1.1s steps(1) infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-out infinite}
+.fl{animation:flick 5s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.cur,.pulse,.fl{animation:none}}
+</style>
+<rect x=".5" y=".5" width="879" height="402" rx="14" fill="url(#bg)" stroke="#1b2735"/>
+<rect x=".5" y=".5" width="879" height="402" rx="14" fill="url(#grid)"/>
+<ellipse cx="105" cy="0" rx="396" ry="201" fill="url(#glow)"/>
+<ellipse cx="836" cy="403" rx="308" ry="181" fill="url(#glow2)"/>
+<path d="M1 40.5H879" stroke="#1b2735"/>
+<text x="24" y="25" class="m" font-size="12.5" fill="#b4c0cf">meet@indoriya: ~/now</text>
+<text x="856" y="25" class="m" font-size="12.5" fill="#7a889a" text-anchor="end">zsh</text>
+<text x="28" y="70" class="m" font-size="13.5" fill="#3fb950" font-weight="700">$</text><text x="46" y="70" class="m" font-size="13.5" fill="#e8eef5">whoami</text>
+<text x="46" y="91" class="m" font-size="13.5" fill="#b4c0cf">MeetIndoriya · Full-Stack Developer · B.Tech CSE student</text>
+<text x="28" y="120" class="m" font-size="13.5" fill="#3fb950" font-weight="700">$</text><text x="46" y="120" class="m" font-size="13.5" fill="#e8eef5">now --building</text>
+<text x="46" y="141" class="m" font-size="13.5" fill="#22d3ee">▸</text><text x="64" y="141" class="m" font-size="13.5" fill="#b4c0cf">full-stack apps</text><text x="300" y="141" class="m" font-size="13.5" fill="#22d3ee">nexa-salon</text><text x="430" y="141" class="m" font-size="13.5" fill="#7a889a">React · Express · MongoDB</text>
+<text x="46" y="162" class="m" font-size="13.5" fill="#22d3ee">▸</text><text x="64" y="162" class="m" font-size="13.5" fill="#b4c0cf">machine learning basics</text><text x="300" y="162" class="m" font-size="13.5" fill="#22d3ee">ML-Loan</text><text x="430" y="162" class="m" font-size="13.5" fill="#7a889a">scikit-learn · Streamlit</text>
+<text x="28" y="191" class="m" font-size="13.5" fill="#3fb950" font-weight="700">$</text><text x="46" y="191" class="m" font-size="13.5" fill="#e8eef5">now --learning</text>
+<text x="46" y="212" class="m" font-size="13.5" fill="#b4c0cf">Python · SQL · DSA · AI/ML fundamentals</text>
+<text x="28" y="241" class="m" font-size="13.5" fill="#3fb950" font-weight="700">$</text><text x="46" y="241" class="m" font-size="13.5" fill="#e8eef5">git log --author=MeetIndoriya -n 4</text>
+<text x="46" y="262" class="m" font-size="13.5" fill="#e3b341">30 Sep</text><text x="116" y="262" class="m" font-size="13.5" fill="#22d3ee">nexa-salon</text><text x="300" y="262" class="m" font-size="13.5" fill="#b4c0cf">first commit</text>
+<text x="46" y="283" class="m" font-size="13.5" fill="#e3b341">30 Sep</text><text x="116" y="283" class="m" font-size="13.5" fill="#22d3ee">nexa-salon</text><text x="300" y="283" class="m" font-size="13.5" fill="#b4c0cf">Update Vite configuration to set base path from environment v…</text>
+<text x="46" y="304" class="m" font-size="13.5" fill="#e3b341">23 Sep</text><text x="116" y="304" class="m" font-size="13.5" fill="#22d3ee">ML-Loan</text><text x="300" y="304" class="m" font-size="13.5" fill="#b4c0cf">Add requirements.txt for deployment</text>
+<text x="46" y="325" class="m" font-size="13.5" fill="#e3b341">23 Sep</text><text x="116" y="325" class="m" font-size="13.5" fill="#22d3ee">ML-Loan</text><text x="300" y="325" class="m" font-size="13.5" fill="#b4c0cf">feat: add complete Streamlit ML dashboard application with pa…</text>
+<text x="28" y="354" class="m" font-size="13.5" fill="#3fb950" font-weight="700">$</text><text x="46" y="354" class="m" font-size="13.5" fill="#e8eef5">status</text>
+<circle class="pulse" cx="52" cy="371" r="3.6" fill="#3fb950"/><circle cx="52" cy="371" r="3.6" fill="#3fb950"/><text x="64" y="375" class="m" font-size="13.5" fill="#e8eef5">Open to internships and freelance work</text><rect class="cur" x="378.6" y="363" width="8" height="15" fill="#3fb950"/>
+</svg>

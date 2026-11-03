@@ -1,0 +1,61 @@
+{
+  "username": "MeetIndoriya",
+  "name": "Meet Indoriya",
+  "role": "Full-Stack Developer",
+  "subtitle": "B.Tech Computer Science Engineering student · Freelancer",
+  "tagline": "Building full-stack web applications with clean interfaces, reliable backend logic and database-driven features.",
+  "location": "Rajkot, Gujarat, India",
+  "status": "Open to internships and freelance work",
+  "footer_line": "Open to internships, freelance projects and full-stack collaboration.",
+  "signature": "meet@indoriya",
+  "avatar_path": null,
+
+  "links": {
+    "GitHub": "https://github.com/MeetIndoriya",
+    "LinkedIn": "https://www.linkedin.com/in/meet-indoriya",
+    "Portfolio": "https://meetdeveloper.vercel.app",
+    "Instagram": "https://www.instagram.com/meet.indoriya"
+  },
+
+  "hero_chips": ["React", "Next.js", "Python", "FastAPI", "PostgreSQL", "MongoDB", "Supabase"],
+
+  "terminal": {
+    "building": [
+      { "label": "full-stack apps", "repo": "nexa-salon", "detail": "React · Express · MongoDB" },
+      { "label": "machine learning basics", "repo": "ML-Loan", "detail": "scikit-learn · Streamlit" }
+    ],
+    "learning": ["Python", "SQL", "DSA", "AI/ML fundamentals"]
+  },
+
+  "stack": [
+    { "group": "frontend", "items": [["react", "React.js"], ["nextdotjs", "Next.js"], ["javascript", "JavaScript"], ["tailwindcss", "Tailwind CSS"], ["bootstrap", "Bootstrap"]] },
+    { "group": "backend", "items": [["python", "Python"], ["fastapi", "FastAPI"], ["nodedotjs", "Node.js"], ["express", "Express.js"], ["rest", "REST APIs"]] },
+    { "group": "database", "items": [["postgresql", "PostgreSQL"], ["mongodb", "MongoDB"], ["mysql", "MySQL"], ["supabase", "Supabase"]] },
+    { "group": "tools", "items": [["git", "Git"], ["github", "GitHub"], ["vercel", "Vercel"], ["integration", "API integration"]] }
+  ],
+
+  "projects": {
+    "max": 3,
+    "pin": ["nexa-salon", "FROLIC-MERN-STACK", "ML-Loan"],
+    "exclude": ["MeetIndoriya"],
+    "show_zero_stats": false,
+    "overrides": {
+      "nexa-salon": {
+        "description": "Salon management portal: React + Vite frontend with an Express REST API, MongoDB, JWT authentication, Socket.IO and Swagger docs.",
+        "tags": ["React", "Vite", "Express", "MongoDB", "Socket.IO", "Swagger"]
+      },
+      "FROLIC-MERN-STACK": {
+        "description": "MERN application with Express routes and MongoDB models for institutes, departments, events, groups, participants and winners.",
+        "tags": ["React", "Node.js", "Express", "MongoDB"]
+      },
+      "ML-Loan": {
+        "description": "Loan-default prediction: notebooks with an AdaBoost model and a Streamlit dashboard built on a scikit-learn preprocessing pipeline.",
+        "tags": ["Python", "scikit-learn", "Streamlit", "Jupyter"]
+      },
+      "PYTHON": {
+        "description": "Python lab notebooks plus a data-structures guide covering lists, tuples, sets and dictionaries.",
+        "tags": ["Python", "Jupyter"]
+      }
+    }
+  }
+}

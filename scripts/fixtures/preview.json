@@ -1,0 +1,199 @@
+{
+ "generated_at": "2026-11-02T00:00:00Z",
+ "user": {
+  "login": "MeetIndoriya",
+  "name": "Meet Indoriya",
+  "bio": "B.Tech CSE Student | Aspiring Data Engineer",
+  "location": "Rajkot, Gujarat, India",
+  "blog": "https://meetdeveloper.vercel.app",
+  "followers": null,
+  "following": null,
+  "public_repos": 7,
+  "created_at": null
+ },
+ "repos": [
+  {
+   "name": "ASP.NET",
+   "description": "Program Of ASP.NET Core",
+   "language": "C#",
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-03-13T18:32:18Z",
+   "homepage": null,
+   "html_url": "https://github.com/MeetIndoriya/ASP.NET",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "FROLIC-MERN-STACK",
+   "description": null,
+   "language": "JavaScript",
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-03-26T05:50:12Z",
+   "homepage": null,
+   "html_url": "https://github.com/MeetIndoriya/FROLIC-MERN-STACK",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "MeetIndoriya",
+   "description": null,
+   "language": null,
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-08-01T05:03:26Z",
+   "homepage": null,
+   "html_url": "https://github.com/MeetIndoriya/MeetIndoriya",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "ML-Loan",
+   "description": null,
+   "language": "Jupyter Notebook",
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-09-23T04:56:59Z",
+   "homepage": null,
+   "html_url": "https://github.com/MeetIndoriya/ML-Loan",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "nexa-salon",
+   "description": null,
+   "language": "JavaScript",
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-09-30T07:09:24Z",
+   "homepage": null,
+   "html_url": "https://github.com/MeetIndoriya/nexa-salon",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "PYTHON",
+   "description": "I have made this repository for understand the concept of python in easy way.",
+   "language": "Jupyter Notebook",
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-04-04T12:59:40Z",
+   "homepage": null,
+   "html_url": "https://github.com/MeetIndoriya/PYTHON",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "WEB-TECHNOLOGY-2",
+   "description": null,
+   "language": null,
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-03-02T05:31:23Z",
+   "homepage": null,
+   "html_url": "https://github.com/MeetIndoriya/WEB-TECHNOLOGY-2",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  }
+ ],
+ "calendar": {
+  "source": "public-commits",
+  "from": "2025-11-03",
+  "to": "2026-11-02",
+  "days": {
+   "2026-09-30": 2,
+   "2026-09-23": 2,
+   "2026-08-21": 2,
+   "2026-08-01": 2,
+   "2026-07-27": 1,
+   "2026-07-19": 2,
+   "2026-04-04": 1,
+   "2026-04-03": 1,
+   "2026-04-02": 1,
+   "2026-04-01": 1,
+   "2026-03-30": 1,
+   "2026-03-27": 1,
+   "2026-03-26": 2,
+   "2026-03-24": 1,
+   "2026-03-23": 1,
+   "2026-03-22": 1,
+   "2026-03-21": 1,
+   "2026-03-20": 1,
+   "2026-03-19": 1,
+   "2026-03-18": 2,
+   "2026-03-15": 2,
+   "2026-03-13": 1,
+   "2026-03-11": 1,
+   "2026-03-10": 1,
+   "2026-03-09": 2,
+   "2026-03-07": 1,
+   "2026-03-06": 1,
+   "2026-03-04": 1,
+   "2026-03-03": 1,
+   "2026-03-02": 6,
+   "2026-03-01": 1,
+   "2026-02-26": 1,
+   "2026-02-25": 2,
+   "2026-02-24": 1,
+   "2026-02-16": 2,
+   "2026-02-12": 2,
+   "2026-02-09": 1,
+   "2026-02-05": 1,
+   "2026-02-03": 2,
+   "2026-02-02": 2,
+   "2025-12-23": 14,
+   "2025-12-22": 1,
+   "2025-12-18": 2
+  }
+ },
+ "recent_commits": [
+  {
+   "repo": "nexa-salon",
+   "message": "first commit",
+   "date": "2026-09-30T07:09:02Z"
+  },
+  {
+   "repo": "nexa-salon",
+   "message": "Update Vite configuration to set base path from environment variable",
+   "date": "2026-09-30T07:00:55Z"
+  },
+  {
+   "repo": "ML-Loan",
+   "message": "Add requirements.txt for deployment",
+   "date": "2026-09-23T04:56:47Z"
+  },
+  {
+   "repo": "ML-Loan",
+   "message": "feat: add complete Streamlit ML dashboard application with pages, com\u2026",
+   "date": "2026-09-23T04:43:34Z"
+  },
+  {
+   "repo": "nexa-salon",
+   "message": "Merge remote-tracking branch 'origin/main'",
+   "date": "2026-08-21T05:31:14Z"
+  },
+  {
+   "repo": "nexa-salon",
+   "message": "Update Vite configuration to set base path from environment variable",
+   "date": "2026-08-21T05:30:22Z"
+  },
+  {
+   "repo": "MeetIndoriya",
+   "message": "Revise technical focus and remove career objective",
+   "date": "2026-08-01T05:03:25Z"
+  },
+  {
+   "repo": "MeetIndoriya",
+   "message": "Update title from MERN Stack Developer to Full Stack Developer",
+   "date": "2026-08-01T04:56:58Z"
+  }
+ ]
+}

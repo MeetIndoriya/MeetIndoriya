@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 176" width="880" height="176" role="img" aria-labelledby="t d">
+<title id="t">Footer</title><desc id="d">Let’s build something useful. meet@indoriya</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b131d"/><stop offset="1" stop-color="#060a10"/></linearGradient><radialGradient id="glow" cx="0" cy="0" r="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".16"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient><radialGradient id="glow2" cx="1" cy="1" r="1"><stop offset="0" stop-color="#3fb950" stop-opacity=".12"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></radialGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#fff" stroke-opacity=".028" stroke-width="1"/></pattern></defs>
+<style>
+.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%{opacity:.9;transform:scale(1)}70%{opacity:0;transform:scale(3.4)}100%{opacity:0;transform:scale(3.4)}}
+@keyframes flick{0%,100%{opacity:1}45%{opacity:.25}60%{opacity:1}}
+.cur{animation:blink 1.1s steps(1) infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-out infinite}
+.fl{animation:flick 5s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.cur,.pulse,.fl{animation:none}}
+</style>
+<rect x=".5" y=".5" width="879" height="175" rx="14" fill="url(#bg)" stroke="#1b2735"/>
+<rect x=".5" y=".5" width="879" height="175" rx="14" fill="url(#grid)"/>
+<ellipse cx="105" cy="0" rx="396" ry="88" fill="url(#glow)"/>
+<ellipse cx="836" cy="176" rx="308" ry="79" fill="url(#glow2)"/>
+<text x="44" y="74" class="s" font-size="30" fill="#e8eef5" font-weight="700" letter-spacing="-0.4">Let’s build something useful.</text>
+<text x="44" y="104" class="s" font-size="14.5" fill="#b4c0cf">Open to internships, freelance projects and full-stack collaboration.</text>
+<text x="44" y="148" class="m" font-size="18" fill="#56d364" font-weight="600">meet@indoriya</text><rect class="cur" x="191.7" y="133" width="10" height="19" fill="#3fb950"/>
+<rect x="500.0" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="506.6" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="513.2" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="519.8" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="526.4" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="533.0" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="539.6" y="129.9" width="4.6" height="20.1" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="546.2" y="80" width="4.6" height="70" rx="1" fill="#3fb950" fill-opacity="0.9"/>
+<rect x="552.8" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="559.4" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="566.0" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="572.6" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="579.2" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="585.8" y="115.4" width="4.6" height="34.6" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="592.4" y="124.6" width="4.6" height="25.4" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="599.0" y="129.9" width="4.6" height="20.1" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="605.6" y="115.4" width="4.6" height="34.6" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="612.2" y="96.3" width="4.6" height="53.7" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="618.8" y="107.3" width="4.6" height="42.7" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="625.4" y="111.2" width="4.6" height="38.8" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="632.0" y="115.4" width="4.6" height="34.6" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="638.6" y="115.4" width="4.6" height="34.6" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="645.2" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="651.8" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="658.4" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="665.0" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="671.6" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="678.2" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="684.8" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="691.4" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="698.0" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="704.6" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="711.2" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="717.8" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="724.4" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="731.0" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="737.6" y="129.9" width="4.6" height="20.1" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="744.2" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="750.8" y="124.6" width="4.6" height="25.4" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="757.4" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="764.0" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="770.6" y="129.9" width="4.6" height="20.1" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="777.2" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="783.8" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="790.4" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="797.0" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="803.6" y="129.9" width="4.6" height="20.1" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="810.2" y="129.9" width="4.6" height="20.1" rx="1" fill="#22d3ee" fill-opacity="0.9"/>
+<rect x="816.8" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="823.4" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="830.0" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="836.6" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<rect x="843.2" y="147" width="4.6" height="3" rx="1" fill="#22d3ee" fill-opacity="0.18"/>
+<text x="500" y="166" class="m" font-size="10.5" fill="#7a889a">weekly activity, last 12 months</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200" role="img" aria-labelledby="t d">
+<title id="t">GitHub profile metrics</title><desc id="d">7 repositories, — followers, 0 stars, 76 commits in the last 12 months.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b131d"/><stop offset="1" stop-color="#060a10"/></linearGradient><radialGradient id="glow" cx="0" cy="0" r="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".16"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient><radialGradient id="glow2" cx="1" cy="1" r="1"><stop offset="0" stop-color="#3fb950" stop-opacity=".12"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></radialGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#fff" stroke-opacity=".028" stroke-width="1"/></pattern></defs>
+<style>
+.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%{opacity:.9;transform:scale(1)}70%{opacity:0;transform:scale(3.4)}100%{opacity:0;transform:scale(3.4)}}
+@keyframes flick{0%,100%{opacity:1}45%{opacity:.25}60%{opacity:1}}
+.cur{animation:blink 1.1s steps(1) infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-out infinite}
+.fl{animation:flick 5s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.cur,.pulse,.fl{animation:none}}
+</style>
+<rect x=".5" y=".5" width="879" height="199" rx="14" fill="url(#bg)" stroke="#1b2735"/>
+<rect x=".5" y=".5" width="879" height="199" rx="14" fill="url(#grid)"/>
+<ellipse cx="105" cy="0" rx="396" ry="100" fill="url(#glow)"/>
+<ellipse cx="836" cy="200" rx="308" ry="90" fill="url(#glow2)"/>
+<text x="30" y="38" class="m" font-size="12.5" fill="#7a889a">repositories</text>
+<text x="30" y="78" class="s" font-size="38" fill="#e8eef5" font-weight="700" letter-spacing="-0.5">7</text>
+<text x="30" y="102" class="m" font-size="12" fill="#7a889a">3 languages</text>
+<path d="M220 22V92" stroke="#1b2735"/>
+<text x="250" y="38" class="m" font-size="12.5" fill="#7a889a">followers</text>
+<text x="250" y="78" class="s" font-size="38" fill="#e8eef5" font-weight="700" letter-spacing="-0.5">—</text>
+<text x="250" y="102" class="m" font-size="12" fill="#7a889a">following —</text>
+<path d="M440 22V92" stroke="#1b2735"/>
+<text x="470" y="38" class="m" font-size="12.5" fill="#7a889a">stars</text>
+<text x="470" y="78" class="s" font-size="38" fill="#e8eef5" font-weight="700" letter-spacing="-0.5">0</text>
+<text x="470" y="102" class="m" font-size="12" fill="#7a889a">0 forks · public repos</text>
+<path d="M660 22V92" stroke="#1b2735"/>
+<text x="690" y="38" class="m" font-size="12.5" fill="#7a889a">commits</text>
+<text x="690" y="78" class="s" font-size="38" fill="#e8eef5" font-weight="700" letter-spacing="-0.5">76</text>
+<text x="690" y="102" class="m" font-size="12" fill="#7a889a">43 active days · 12 months</text>
+<path d="M1 118.5H879" stroke="#1b2735"/>
+<text x="30" y="144" class="m" font-size="12.5" fill="#7a889a">languages</text>
+<text x="850" y="144" class="m" font-size="12" fill="#7a889a" text-anchor="end">primary language per repository</text>
+<clipPath id="lb"><rect x="30" y="154" width="820" height="8" rx="4"/></clipPath><rect x="30" y="154" width="820" height="8" rx="4" fill="#101c28"/><g clip-path="url(#lb)"><rect x="30" y="154" width="328.5" height="8" fill="#f1e05a"/><rect x="358" y="154" width="328.5" height="8" fill="#DA5B0B"/><rect x="686" y="154" width="164.5" height="8" fill="#178600"/></g>
+<circle cx="34" cy="177" r="4" fill="#f1e05a"/>
+<text x="44" y="181" class="m" font-size="12" fill="#b4c0cf">JavaScript 2</text>
+<circle cx="157.6" cy="177" r="4" fill="#DA5B0B"/>
+<text x="167.6" y="181" class="m" font-size="12" fill="#b4c0cf">Jupyter Notebook 2</text>
+<circle cx="325.0" cy="177" r="4" fill="#178600"/>
+<text x="335" y="181" class="m" font-size="12" fill="#b4c0cf">C# 1</text>
+</svg>
