@@ -72,7 +72,7 @@
 <path d="M516 196.5H660" stroke="#27384c"/>
 <text x="694" y="70" class="m" font-size="12.5" fill="#b4c0cf">streaks</text>
 <text x="694" y="102" class="m" font-size="12" fill="#7a889a">current</text>
-<text x="852" y="102" class="m" font-size="15" fill="#e8eef5" font-weight="700" text-anchor="end">1 d</text>
+<text x="852" y="102" class="m" font-size="15" fill="#e8eef5" font-weight="700" text-anchor="end">0 d</text>
 <text x="694" y="130" class="m" font-size="12" fill="#7a889a">longest</text>
 <text x="852" y="130" class="m" font-size="15" fill="#e8eef5" font-weight="700" text-anchor="end">7 d</text>
 <text x="694" y="158" class="m" font-size="12" fill="#7a889a">best day</text>
