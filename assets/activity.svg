@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 256" width="880" height="256" role="img" aria-labelledby="t d">
-<title id="t">Activity breakdown</title><desc id="d">105 commits in 12 months; longest streak 7 days; best day 13.</desc>
+<title id="t">Activity breakdown</title><desc id="d">111 commits in 12 months; longest streak 7 days; best day 13.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b131d"/><stop offset="1" stop-color="#060a10"/></linearGradient><radialGradient id="glow" cx="0" cy="0" r="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".16"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient><radialGradient id="glow2" cx="1" cy="1" r="1"><stop offset="0" stop-color="#3fb950" stop-opacity=".12"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></radialGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#fff" stroke-opacity=".028" stroke-width="1"/></pattern></defs>
 <style>
 .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace}
@@ -49,13 +49,13 @@
 <text x="382" y="214" class="m" font-size="10.5" fill="#7a889a" text-anchor="middle">sep</text>
 <rect x="408" y="193" width="24" height="3" rx="3" fill="#22d3ee" fill-opacity="0.16"/>
 <text x="420" y="214" class="m" font-size="10.5" fill="#7a889a" text-anchor="middle">oct</text>
-<rect x="446" y="157.9" width="24" height="38.1" rx="3" fill="#22d3ee" fill-opacity="0.55"/>
-<text x="458" y="151.9" class="m" font-size="11" fill="#b4c0cf" text-anchor="middle">11</text>
+<rect x="446" y="137.1" width="24" height="58.9" rx="3" fill="#22d3ee" fill-opacity="0.55"/>
+<text x="458" y="131.1" class="m" font-size="11" fill="#b4c0cf" text-anchor="middle">17</text>
 <text x="458" y="214" class="m" font-size="10.5" fill="#7a889a" text-anchor="middle">nov</text>
 <path d="M24 196.5H480" stroke="#27384c"/>
 <path d="M498 58V232M672 58V232" stroke="#1b2735"/>
 <text x="520" y="70" class="m" font-size="12.5" fill="#b4c0cf">by weekday</text>
-<rect x="520" y="141.7" width="14" height="54.3" rx="3" fill="#8b5cf6" fill-opacity="0.55"/>
+<rect x="520" y="114.6" width="14" height="81.4" rx="3" fill="#8b5cf6" fill-opacity="0.55"/>
 <text x="527" y="214" class="m" font-size="10.5" fill="#7a889a" text-anchor="middle">S</text>
 <rect x="541" y="128.2" width="14" height="67.8" rx="3" fill="#8b5cf6" fill-opacity="0.55"/>
 <text x="548" y="214" class="m" font-size="10.5" fill="#7a889a" text-anchor="middle">M</text>
@@ -72,12 +72,12 @@
 <path d="M516 196.5H660" stroke="#27384c"/>
 <text x="694" y="70" class="m" font-size="12.5" fill="#b4c0cf">streaks</text>
 <text x="694" y="102" class="m" font-size="12" fill="#7a889a">current</text>
-<text x="852" y="102" class="m" font-size="15" fill="#e8eef5" font-weight="700" text-anchor="end">1 d</text>
+<text x="852" y="102" class="m" font-size="15" fill="#e8eef5" font-weight="700" text-anchor="end">2 d</text>
 <text x="694" y="130" class="m" font-size="12" fill="#7a889a">longest</text>
 <text x="852" y="130" class="m" font-size="15" fill="#e8eef5" font-weight="700" text-anchor="end">7 d</text>
 <text x="694" y="158" class="m" font-size="12" fill="#7a889a">best day</text>
 <text x="852" y="158" class="m" font-size="15" fill="#e8eef5" font-weight="700" text-anchor="end">13</text>
 <text x="852" y="171.5" class="m" font-size="10.5" fill="#7a889a" text-anchor="end">23 Dec 2025</text>
 <text x="694" y="198" class="m" font-size="12" fill="#7a889a">active</text>
-<text x="852" y="198" class="m" font-size="15" fill="#e8eef5" font-weight="700" text-anchor="end">54/365</text>
+<text x="852" y="198" class="m" font-size="15" fill="#e8eef5" font-weight="700" text-anchor="end">55/365</text>
 </svg>
