@@ -33,15 +33,15 @@
 <path d="M1 118.5H879" stroke="#1b2735"/>
 <text x="30" y="144" class="m" font-size="12.5" fill="#7a889a">languages</text>
 <text x="850" y="144" class="m" font-size="12" fill="#7a889a" text-anchor="end">primary language per repository</text>
-<clipPath id="lb"><rect x="30" y="154" width="820" height="8" rx="4"/></clipPath><rect x="30" y="154" width="820" height="8" rx="4" fill="#101c28"/><g clip-path="url(#lb)"><rect x="30" y="154" width="234.8" height="8" fill="#f1e05a"/><rect x="264.3" y="154" width="234.8" height="8" fill="#DA5B0B"/><rect x="498.6" y="154" width="117.6" height="8" fill="#3178c6"/><rect x="615.7" y="154" width="117.6" height="8" fill="#3572A5"/><rect x="732.9" y="154" width="117.6" height="8" fill="#178600"/></g>
+<clipPath id="lb"><rect x="30" y="154" width="820" height="8" rx="4"/></clipPath><rect x="30" y="154" width="820" height="8" rx="4" fill="#101c28"/><g clip-path="url(#lb)"><rect x="30" y="154" width="234.8" height="8" fill="#f1e05a"/><rect x="264.3" y="154" width="234.8" height="8" fill="#DA5B0B"/><rect x="498.6" y="154" width="117.6" height="8" fill="#3572A5"/><rect x="615.7" y="154" width="117.6" height="8" fill="#3178c6"/><rect x="732.9" y="154" width="117.6" height="8" fill="#178600"/></g>
 <circle cx="34" cy="177" r="4" fill="#f1e05a"/>
 <text x="44" y="181" class="m" font-size="12" fill="#b4c0cf">JavaScript 2</text>
 <circle cx="157.6" cy="177" r="4" fill="#DA5B0B"/>
 <text x="167.6" y="181" class="m" font-size="12" fill="#b4c0cf">Jupyter Notebook 2</text>
-<circle cx="325.0" cy="177" r="4" fill="#3178c6"/>
-<text x="335" y="181" class="m" font-size="12" fill="#b4c0cf">TypeScript 1</text>
-<circle cx="448.6" cy="177" r="4" fill="#3572A5"/>
-<text x="458.6" y="181" class="m" font-size="12" fill="#b4c0cf">Python 1</text>
+<circle cx="325.0" cy="177" r="4" fill="#3572A5"/>
+<text x="335" y="181" class="m" font-size="12" fill="#b4c0cf">Python 1</text>
+<circle cx="419.4" cy="177" r="4" fill="#3178c6"/>
+<text x="429.4" y="181" class="m" font-size="12" fill="#b4c0cf">TypeScript 1</text>
 <circle cx="543.0" cy="177" r="4" fill="#178600"/>
 <text x="553" y="181" class="m" font-size="12" fill="#b4c0cf">C# 1</text>
 </svg>
