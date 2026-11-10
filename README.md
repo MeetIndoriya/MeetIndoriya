@@ -29,7 +29,7 @@
 
 <p align="right"><a href="https://ml-loan-eight.vercel.app">Live demo of ML-Loan</a></p>
 
-<sub>Coursework and practice repositories: <a href="https://github.com/MeetIndoriya/GitAuto">GitAuto</a> · <a href="https://github.com/MeetIndoriya/gitauto-990218">gitauto-990218</a> · <a href="https://github.com/MeetIndoriya/ASP.NET">ASP.NET</a> · <a href="https://github.com/MeetIndoriya/PYTHON">PYTHON</a> · <a href="https://github.com/MeetIndoriya/WEB-TECHNOLOGY-2">WEB-TECHNOLOGY-2</a></sub>
+<sub>Coursework and practice repositories: <a href="https://github.com/MeetIndoriya/GitAuto">GitAuto</a> · <a href="https://github.com/MeetIndoriya/ASP.NET">ASP.NET</a> · <a href="https://github.com/MeetIndoriya/PYTHON">PYTHON</a> · <a href="https://github.com/MeetIndoriya/WEB-TECHNOLOGY-2">WEB-TECHNOLOGY-2</a></sub>
 <!--END:projects-->
 
 <img src="assets/footer.svg" width="100%" alt="Let’s build something useful. meet@indoriya">
